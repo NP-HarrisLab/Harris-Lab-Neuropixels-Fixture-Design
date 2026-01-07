@@ -12,25 +12,25 @@ Folder includes design files for each Neuropixels version:
 <br/>
 <br/>
 <br/>
--Dovetail piece: NP2.0_single_recoverable_dovetail
+-**Dovetail piece**: NP2.0_single_recoverable_dovetail
 
--Outer encasing (back): NP2.0_single_recoverable_innerpiece
+-**Outer encasing (back)**: NP2.0_single_recoverable_innerpiece
 
--Outer encasing (front): NP2.0_single_recoverable_outerpiece
+-**Outer encasing (front)**: NP2.0_single_recoverable_outerpiece
 
--vertical lock pin: NP2.0_single_recoverable_vertical_anchor_durable
+-**Vertical lock pin**: NP2.0_single_recoverable_vertical_anchor_durable
 <br/>
 <br/>
 <br/>
--implanter rod: NP_2.0_single_recoverable_implanter
+-**Implanter rod**: NP_2.0_single_recoverable_implanter
 
--implanter lock pin: NP2.0_single_recoverable_implant_anchor
+-**Implanter lock pin**: NP2.0_single_recoverable_implant_anchor
 <br/>
 <br/>
 <br/>
--extraction rod: NP_2.0_single_recoverable_explanter
+-**Extraction rod**: NP_2.0_single_recoverable_explanter
 <br/>
 <br/>
 <br/>
--simplified model of probe: NP2.0_4shank_simplified
+-**Simplified model of probe**: NP2.0_4shank_simplified
 

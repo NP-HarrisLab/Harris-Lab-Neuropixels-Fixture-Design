@@ -18,9 +18,11 @@ Folder includes design files for each Neuropixels version:
 -vertical lock pin: NP2.0_single_recoverable_vertical_anchor_durable
 
 
+
 -implanter rod: NP_2.0_single_recoverable_implanter
 
 -implanter lock pin: NP2.0_single_recoverable_implant_anchor
+
 
 
 -extraction rod: NP_2.0_single_recoverable_explanter
